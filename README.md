@@ -48,6 +48,7 @@ Example
   "stock": 10,
   "images": ["blue1.jpg", "blue2.jpg"]
 }
+```
 
 ✅ Installation
 npm install
