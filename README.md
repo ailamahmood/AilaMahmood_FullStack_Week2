@@ -73,6 +73,7 @@ Server will start at:
 Use Postman to test all routes.
 Verified:
     GET all
+    ![GET all products](Postman_test_images/1.GET_All.jpg)
     GET one
     POST new
     PUT update
